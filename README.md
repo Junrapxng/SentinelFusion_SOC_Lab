@@ -1,2 +1,4 @@
 # SentinelFusion_SOC_Lab
 ELK-based SIEM integrated with Fail2ban, SSH monitoring, and firewall log correlation for real-time attack detection.
+
+  SentinelFusion SOC Lab is a security monitoring and detection engineering project that integrates the ELK Stack as a SIEM platform with SSH logs, firewall events, and Fail2ban activity to provide centralized log collection, real-time analysis, and attack correlation. The system detects suspicious behaviors such as SQL injection attempts, brute-force SSH attacks, and unauthorized access patterns, then correlates multi-source events to increase detection confidence and trigger active response mechanisms. Through this project, I gained hands-on experience in log pipeline configuration, Linux ELK deployment, TLS setup, detection rule creation, event correlation, and practical blue team operations including monitoring, alerting, and automated threat mitigation.
